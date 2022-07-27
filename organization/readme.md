@@ -1,6 +1,6 @@
 Run the tests
-- npm install -g live-server
-- change directory to the root of this repo and `./live-server`
+- npm install
+- npm run server
 - optional: goto: http://127.0.0.1:8080/simple-store.html#catalog
 - run tests: `pytest --headed --slowmo 250`
   - run selected tests: `pytest --headed --slowmo 250 -m catalog`

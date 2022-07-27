@@ -1,0 +1,11 @@
+{
+  "name": "test-code-standards",
+  "description": "Sample code for the \"Test Code Standards for Playright and Python\" blog post",
+  "scripts": {
+    "server": "live-server"
+  },
+  "author": "Matt Heusser",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
